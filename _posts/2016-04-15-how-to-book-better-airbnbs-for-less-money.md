@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T10:57:11.975Z'
+datePublished: '2016-07-25T11:21:05.006Z'
 sourcePath: _posts/2016-04-15-how-to-book-better-airbnbs-for-less-money.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,8 @@ author:
   - name: '@jwmcgauley'
     url: 'https://www.twitter.com/@jwmcgauley'
     avatar: {}
-dateModified: '2016-07-25T10:57:08.506Z'
+via: {}
+dateModified: '2016-07-25T11:21:04.544Z'
 title: How to Book Better Airbnbs for Less Money
 app_links:
   - namespace: twitter
@@ -40,10 +41,9 @@ publisher:
 description: How to successfully book your first-choice listings and get them for cheaper.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How to Book Better Airbnbs for Less Money</h1><p>How to successfully book your first-choice listings and get them for cheaper.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ad1631f9488b5c41ba63eb0d4ff8c377b6b850.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43ad1631f9488b5c41ba63eb0d4ff8c377b6b850.jpg" /><h1>How to Book Better Airbnbs for Less Money</h1><p>How to successfully book your first-choice listings and get them for cheaper.</p></article>
