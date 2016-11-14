@@ -1,19 +1,26 @@
 typography_spectrum: 0.2430892107076943
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.12595370993949473
-  lightness: 0.8740823508705944
-  saturation: 0.5025729408953339
-  rhythmicContrast: 0.45995597657747567
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+  brandStrength: 0.12595370993949473
+  lightness: 0.8740823508705944
+  saturation: 0.5025729408953339
+  rhythmicContrast: 0.45995597657747567
+github: true
+opengraph:
+  type: ''
+  appId: ''
 layout_spectrum: 0.9213684673886746
 author:
   name: Andrew Durham
-  email: info@andrewdurham.com
   url: darkroomretreat.com
+  email: info@andrewdurham.com
 name: darkroom retreat
 title: deep rest for the self-healing psyche
+content: []
