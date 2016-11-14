@@ -21,7 +21,11 @@ author:
   name: Andrew Durham
   url: darkroomretreat.com
   email: info@andrewdurham.com
-name: darkroom retreat
+name: hygienic darkroom retreat
 title: hygienic darkroom retreat
 content: []
 description: deep rest for the self-healing psyche
+purpose:
+  - type: contact
+    url: 'mailto:info@andrewdurham.com'
+    label: 'write me: questions, comments, proposals'
